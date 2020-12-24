@@ -1,7 +1,7 @@
 {
-  "name": "with-react-bootstrap",
+  "name": "the-clock-guy",
   "version": "0.1.0",
-  "author": "Wenzhi Li",
+  "author": "Matt Petitt",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
@@ -9,10 +9,10 @@
     "start": "next start"
   },
   "dependencies": {
-    "bootstrap": "^4.4.1",
+    "bootstrap": "^4.5.3",
     "next": "latest",
-    "react": "^16.13.1",
-    "react-bootstrap": "^1.0.1",
-    "react-dom": "^16.13.1"
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^17.0.1"
   }
 }
