@@ -1,5 +1,5 @@
 import Head from "next/head";
-import Link from "next/Link";
+import Link from "next/link";
 import {
   Container,
   Row,
@@ -7,7 +7,6 @@ import {
   Button,
   Navbar,
   Nav,
-  NavDropdown,
   Jumbotron,
 } from "react-bootstrap";
 
