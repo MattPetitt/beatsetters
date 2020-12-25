@@ -39,16 +39,24 @@ export default function Home() {
       </Navbar>
       <Container className="md-container">
         <Head>
-          <title>Beatsetters</title>
+          <title>The Clock Guy</title>
           <link rel="icon" href="/favicon-32x32.png" />
         </Head>
         <Container>
           <Jumbotron className="text-light bg-dark text-center">
+            <img
+              style={{
+                paddingBottom: "2rem",
+                width: "100%",
+                maxWidth: "300px",
+              }}
+              src="/theclockguy.png"
+            />
             <h1 className="font-weight-bold">
-              Beatsetters
+              Don Gregory
               <br />
               <small className="text-muted">
-                Movements in time are our business.
+                Horological Services in the DMV
               </small>
             </h1>
           </Jumbotron>
@@ -127,13 +135,12 @@ export default function Home() {
           </Container>
           <Container>
             <Jumbotron className="text-light bg-dark text-center">
-              <h2 className="font-weight-bold pb-3">Contact Me</h2>
-              <p>Don Gregory</p>
-              <p>757-328-6699</p>
-              <p>
+              <h2 className="font-weight-bold pb-2">Contact Me</h2>
+              <p className="mb-1">757-328-6699</p>
+              <p className="mb-1">
                 <a href="#">myemail@something.com</a>
               </p>
-              <p>Calvert County and St. Mary’s County, MD</p>
+              <p className="mb-1">Calvert County and St. Mary’s County, MD</p>
             </Jumbotron>
           </Container>
         </Container>
