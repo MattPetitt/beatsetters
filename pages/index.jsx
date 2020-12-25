@@ -56,38 +56,38 @@ export default function Home() {
               Don Gregory
               <br />
               <small className="text-muted">
-                Horological Services in the DMV
+                Horological Services for the DMV Area
               </small>
             </h1>
           </Jumbotron>
           <Container>
             <Row className="justify-content-md-between d-flex justify-content-center">
               <Card className="sml-card text-light bg-secondary">
-                <Card.Img
-                  variant="top"
-                  src="https://via.placeholder.com/300x200"
-                />
+                <Card.Img variant="top" src="/6.jpg" />
                 <Card.Body>
                   <Card.Title>Restorations</Card.Title>
                   <Card.Text>
-                    Find in-depth information about Next.js features and API.
+                    Horology is the study of the measurement of time. Clocks,
+                    watches, clockwork, sundials, hourglasses, clepsydras,
+                    timers, time recorders, marine chronometers, and atomic
+                    clocks are all examples of instruments used to measure time.
                   </Card.Text>
-                  <Button variant="primary" href="https://nextjs.org/docs">
+                  <Button variant="primary" href="/#">
                     More &rarr;
                   </Button>
                 </Card.Body>
               </Card>
               <Card className="sml-card text-light bg-secondary">
-                <Card.Img
-                  variant="top"
-                  src="https://via.placeholder.com/300x200"
-                />
+                <Card.Img variant="top" src="/3.jpg" />
                 <Card.Body>
                   <Card.Title>Repairs</Card.Title>
                   <Card.Text>
-                    Learn about Next.js in an interactive course with quizzes!
+                    Horology is the study of the measurement of time. Clocks,
+                    watches, clockwork, sundials, hourglasses, clepsydras,
+                    timers, time recorders, marine chronometers, and atomic
+                    clocks are all examples of instruments used to measure time.
                   </Card.Text>
-                  <Button variant="primary" href="https://nextjs.org/learn">
+                  <Button variant="primary" href="/#">
                     More &rarr;
                   </Button>
                 </Card.Body>
@@ -95,38 +95,31 @@ export default function Home() {
             </Row>
             <Row className="justify-content-md-between d-flex justify-content-center">
               <Card className="sml-card text-light bg-secondary">
-                <Card.Img
-                  variant="top"
-                  src="https://via.placeholder.com/300x200"
-                />
+                <Card.Img variant="top" src="/1.jpg" />
                 <Card.Body>
                   <Card.Title>Sales</Card.Title>
                   <Card.Text>
-                    Discover and deploy boilerplate example Next.js projects.
+                    Horology is the study of the measurement of time. Clocks,
+                    watches, clockwork, sundials, hourglasses, clepsydras,
+                    timers, time recorders, marine chronometers, and atomic
+                    clocks are all examples of instruments used to measure time.
                   </Card.Text>
-                  <Button
-                    variant="primary"
-                    href="https://github.com/vercel/next.js/tree/master/examples"
-                  >
+                  <Button variant="primary" href="/#">
                     More &rarr;
                   </Button>
                 </Card.Body>
               </Card>
               <Card className="sml-card text-light bg-secondary">
-                <Card.Img
-                  variant="top"
-                  src="https://via.placeholder.com/300x200"
-                />
+                <Card.Img variant="top" src="/4.jpg" />
                 <Card.Body>
                   <Card.Title>Consultations</Card.Title>
                   <Card.Text>
-                    Instantly deploy your Next.js site to a public URL with
-                    Vercel.
+                    Horology is the study of the measurement of time. Clocks,
+                    watches, clockwork, sundials, hourglasses, clepsydras,
+                    timers, time recorders, marine chronometers, and atomic
+                    clocks are all examples of instruments used to measure time.
                   </Card.Text>
-                  <Button
-                    variant="primary"
-                    href="https://vercel.com/import?filter=next.js&utm_source=github&utm_medium=example&utm_campaign=next-example"
-                  >
+                  <Button variant="primary" href="/#">
                     More &rarr;
                   </Button>
                 </Card.Body>
